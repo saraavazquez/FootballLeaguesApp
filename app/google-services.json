@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652454738391",
+    "project_id": "footballapp-be583",
+    "storage_bucket": "footballapp-be583.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652454738391:android:cfc55433b7db08dc9fb392",
+        "android_client_info": {
+          "package_name": "com.saravazquez.footballapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwIq95nVRMKUuvPaeazIf4wEwh8Dqds6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
